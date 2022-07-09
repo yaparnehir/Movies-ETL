@@ -6,3 +6,4 @@
 - Extract and transform Kaggle data
 - Creating a database <br/>
 > **Tools:** Python, Jupyter Notebook ; **Libraries:** SQLalchemy, Json, Pandas, Numpy; **Database:** PgAdmin
+### Cleaning
